@@ -4,7 +4,7 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/boreq/bolt-ui/internal/config"
+	"github.com/divyam234/bolt-ui/internal/config"
 )
 
 type AuthProvider interface {

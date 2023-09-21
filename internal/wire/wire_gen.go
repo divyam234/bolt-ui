@@ -6,11 +6,11 @@
 package wire
 
 import (
-	"github.com/boreq/bolt-ui/adapters"
-	"github.com/boreq/bolt-ui/application"
-	"github.com/boreq/bolt-ui/internal/config"
-	"github.com/boreq/bolt-ui/internal/service"
-	"github.com/boreq/bolt-ui/ports/http"
+	"github.com/divyam234/bolt-ui/adapters"
+	"github.com/divyam234/bolt-ui/application"
+	"github.com/divyam234/bolt-ui/internal/config"
+	"github.com/divyam234/bolt-ui/internal/service"
+	"github.com/divyam234/bolt-ui/ports/http"
 	"go.etcd.io/bbolt"
 )
 

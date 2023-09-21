@@ -1,7 +1,7 @@
 package service
 
 import (
-	httpPort "github.com/boreq/bolt-ui/ports/http"
+	httpPort "github.com/divyam234/bolt-ui/ports/http"
 )
 
 type Service struct {
